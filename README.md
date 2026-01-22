@@ -6,6 +6,8 @@
 
 >  Requires `reqpy_M` (Core spectral processing library) `pip install "reqpy-M[smoothing]"`
 
+>  Cite the code https://doi.org/10.5281/zenodo.18331475
+
 ## Overview
 
 In seismic safety assessments, particularly for nuclear facilities (US-NRC SRP 3.7.1), input motions must often match a design response spectrum (DRS) while satisfying a minimum PSD requirement to ensure sufficient energy content.
